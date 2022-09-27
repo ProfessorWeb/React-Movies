@@ -3,7 +3,7 @@
 This project was built as part of a continuation of the learning process in the course.
 
 
-### install
+### install Project
 - npm i
 - npm start
 
